@@ -1,4 +1,4 @@
 AndroidWearable-Samples
 =======================
 
-Gradle-friendly re-pack of Google's Android Wear Samples
+Re-pack Google's Android Wear Samples into eclipse projects.
